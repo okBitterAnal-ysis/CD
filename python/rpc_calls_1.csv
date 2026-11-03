@@ -1,0 +1,4 @@
+call_id,client_name,method_name,param_value,timestamp
+C1,DeviceA,processData,10,10:00:01
+C2,DeviceB,validateDevice,450,10:00:02
+C3,DeviceC,validateDevice,700,10:00:03
